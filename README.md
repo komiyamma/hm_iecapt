@@ -1,6 +1,6 @@
 # HmIECapt
 
-![HmIECapt v1.0.0](https://img.shields.io/badge/HmIECapt-v1.3.0-6479ff.svg)
+![HmIECapt v1.0.0](https://img.shields.io/badge/HmIECapt-v1.0.0-6479ff.svg)
 [![GPL](https://img.shields.io/badge/license-GPL-blue.svg?style=flat)](LICENSE)
 ![Hidemaru 8.66](https://img.shields.io/badge/Hidemaru-v8.66-6479ff.svg)
 
